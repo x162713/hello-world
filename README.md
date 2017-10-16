@@ -1,3 +1,3 @@
 # hello-world
-learning GIT
+Learning GIT
 I created a new repository and a new branch.
