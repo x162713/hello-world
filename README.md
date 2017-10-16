@@ -1,4 +1,5 @@
 # hello-world
 Learning GIT repository.
-is case sensitive
+Is case sensitive
 I created a new repository and a new branch.
+I deleted and created branch.
